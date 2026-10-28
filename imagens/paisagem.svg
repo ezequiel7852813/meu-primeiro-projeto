@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+  <rect width="900" height="480" fill="#bfdbfe"/>
+  <circle cx="700" cy="105" r="52" fill="#fbbf24"/>
+  <path d="M0 350 L220 130 L430 350 Z" fill="#64748b"/>
+  <path d="M250 350 L520 95 L790 350 Z" fill="#475569"/>
+  <path d="M570 350 L760 180 L900 320 L900 480 L0 480 L0 350 Z" fill="#16a34a"/>
+  <path d="M0 405 Q220 350 430 415 T900 390 L900 480 L0 480 Z" fill="#15803d"/>
+  <text x="450" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#ffffff">Imagem ilustrativa do projeto</text>
+</svg>
